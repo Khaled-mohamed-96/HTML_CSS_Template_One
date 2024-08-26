@@ -431,8 +431,11 @@ gap: 20px;
       .about .about-content .text p:last-of-type {
         line-height: 2;
         color: #777;
+       transition: 1s ;
       }
-      
+      .about .about-content .text p:last-of-type:hover {
+             color : black ;
+            }
 
       
 
